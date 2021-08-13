@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#Portafolio
+###Lenguaje :computer: Visual Basic , C#, javascript, html y css
 <!--
 **Xaerua/Xaerua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
